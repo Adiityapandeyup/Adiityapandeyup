@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Aditya! 👋
 
-<!--
-**Adiityapandeyup/Adiityapandeyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **BCA Student specializing in Cybersecurity & Forensics** at BBDU. I am passionate about ethical hacking, building security tools, and exploring the world of decentralized technology.
 
-Here are some ideas to get you started:
+### 🛡️ Cybersecurity & Development Interests
+- **Languages:** Python (Primary), Node.js, Bash Scripting
+- **Tools:** Kali Linux, Metasploit, Burp Suite, Buildozer
+- **Focus:** Digital Forensics, Vulnerability Assessment, and Web3 Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📜 Certifications
+- **Blockchain 101** - Infosys Springboard
+- **Networking Basics** - Cisco Networking Academy
+- **Endpoint Security** - Cisco
+- **Cybersecurity With Generative AI** - IBM
+- **Introduction to Cybersecurity** - Cisco Networking Academy
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityakumarpandey)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://github.com/adiityapandeyup)
+
+---
+*“Security is not a product, but a process.”*
