@@ -16,7 +16,7 @@ I am a **BCA Student specializing in Cybersecurity & Forensics** at BBDU. I am p
 - **Introduction to Cybersecurity** - Cisco Networking Academy
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adityakumarpandey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-kumar-pandey-a2a463348)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://github.com/adiityapandeyup)
 
 ---
