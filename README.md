@@ -18,9 +18,9 @@
 
 ### 📊 GitHub Stats:
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adiityapandeyup&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiityapandeyup&layout=compact&theme=tokyonight)
 
 ---
 
@@ -32,4 +32,4 @@
 ---
 
 ### 🤝 Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN_URL)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-kumar-pandey-ap/)
