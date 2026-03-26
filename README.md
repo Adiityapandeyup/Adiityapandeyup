@@ -1,23 +1,35 @@
-# Hi there, I'm Aditya! 👋
+# Hi 👋, I'm Aditya!
 
-I am a **BCA Student specializing in Cybersecurity & Forensics** at BBDU. I am passionate about ethical hacking, building security tools, and exploring the world of decentralized technology.
-
-### 🛡️ Cybersecurity & Development Interests
-- **Languages:** Python (Primary), Node.js, Bash Scripting
-- **Tools:** Kali Linux, Metasploit, Burp Suite, Buildozer
-- **Focus:** Digital Forensics, Vulnerability Assessment, and Web3 Security
+### 🛡️ Cybersecurity Student | Ethical Hacker | Python Developer
 
 
-### 📜 Certifications
-- **Blockchain 101** - Infosys Springboard
-- **Networking Basics** - Cisco Networking Academy
-- **Endpoint Security** - Cisco
-- **Cybersecurity With Generative AI** - IBM
-- **Introduction to Cybersecurity** - Cisco Networking Academy
+- 🌱 I’m currently learning **Advanced Forensics and Blockchain**
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditya-kumar-pandey-a2a463348)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](https://github.com/adiityapandeyup)
 
 ---
-*“Security is not a product, but a process.”*
+
+### 🛠️ Tech Stack & Skills:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=shield&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 Certifications:
+* 🎓 **IBM** - Cybersecurity with Generative AI
+* 🎓 **Infosys** - Blockchain 101
+* 🎓 **Cisco** - Endpoint Security, Networking Basics
+
+---
+
+### 🤝 Connect with me:
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](YOUR_LINKEDIN_URL)
