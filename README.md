@@ -23,8 +23,8 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](### 🔝 Top Contributed Repository
+### 🔝 Top Contributed Repository
+
 [![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=Adiityapandeyup&repo=num-info-tool&theme=tokyonight)](https://github.com/Adiityapandeyup/num-info-tool))
 
 ---
