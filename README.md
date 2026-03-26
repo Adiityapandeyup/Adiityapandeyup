@@ -25,7 +25,7 @@
 
 ### 🔝 Top Contributed Repository
 
-[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=Adiityapandeyup&repo=num-info-tool&theme=tokyonight)](https://github.com/Adiityapandeyup/num-info-tool))
+[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=Adiityapandeyup&repo=num-info-tool&theme=tokyonight)](https://github.com/Adiityapandeyup/num-info-tool)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Adiityapandeyup&icon=0&color=0)](https://visitcount.itsvg.in)
