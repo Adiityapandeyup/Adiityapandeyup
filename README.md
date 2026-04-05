@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning **Advanced Forensics and Blockchain**<br>
 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Red?style=for-the-badge&logo=shield&logoColor=white)
